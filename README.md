@@ -82,10 +82,7 @@ Created by: [Github Profile](https://www.github.com/izharashiq)
 📄 License
 MIT License - see LICENSE file for details.
 
-🌟 Support
+**🌟 Support**
 Found this useful? Show some love:
 
-⭐ Star the repo
-🐛 Report bugs
-💡 Suggest features
 🤝 Follow on instagram
