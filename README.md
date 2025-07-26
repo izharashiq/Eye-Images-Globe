@@ -76,13 +76,16 @@ All eye images are saved in the `eye_images/` folder as `.jpg` files locally.
 
 ---
 
-👨‍💻 Author
+**👨‍💻 Author**
+
 Created by: [Github Profile](https://www.github.com/izharashiq)
 
-📄 License
+**📄 License**
+
 MIT License - see LICENSE file for details.
 
-**🌟 Support**
+**🌟 Support:**
+
 Found this useful? Show some love:
 
 🤝 Follow on instagram
