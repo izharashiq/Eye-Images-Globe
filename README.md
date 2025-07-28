@@ -22,7 +22,7 @@ This project is an **interactive 3D eye visualization system**:
 
 ## 🧪 Demo
 
-📽️ **Watch it in action**: [Instagram Reel](https://www.instagram.com/reel/DMftWVzySnK/)
+📽️ **Watch it in action**: [Instagram Reel](https://www.instagram.com/reel/DMj00HxyhS1)
 
 ---
 
